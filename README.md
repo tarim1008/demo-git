@@ -1,2 +1,2 @@
 # demo-git
-Une demo de repository GitHub
+Une demo de repository GitHub qui se passe bien dans mon cas
